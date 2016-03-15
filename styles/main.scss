@@ -1,0 +1,56 @@
+nav {
+background-color: white;
+}
+.header_left_text{
+	padding: 3em;
+	text-align: right;
+	vertical-align: center;
+
+}
+.header_right_text{
+	padding: 3em;
+	text-align: left;
+	vertical-align: center;
+}
+.page_header{
+	padding:5em;
+	color: white;
+	background-image: url("../images/hero-dark.jpg");
+	height: 33em;
+	//background-image: inherit;
+	//margin-bottom: 2em;
+
+}
+.second_row{
+
+	.left{
+		//padding: 2em 1em;
+		vertical-align: center;
+
+	}
+	.right{
+		button{
+		//margin: 2em 1em;
+		vertical-align: center;
+		text-align: center;
+		}
+		
+	}
+
+}
+.third_row {
+	//color: red;
+	//background-color:#BEBEBE;
+}
+footer{
+	background-color: #3B414A;
+	color: #9EA4AD;
+}
+// .well{
+// 	margin: 1em;
+// }
+
+
+
+
+

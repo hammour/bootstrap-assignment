@@ -1,0 +1,30 @@
+nav {
+  background-color: white; }
+
+.header_left_text {
+  padding: 3em;
+  text-align: right;
+  vertical-align: center; }
+
+.header_right_text {
+  padding: 3em;
+  text-align: left;
+  vertical-align: center; }
+
+.page_header {
+  padding: 5em;
+  color: white;
+  background-image: url("../images/hero-dark.jpg");
+  height: 33em; }
+
+.second_row .left {
+  vertical-align: center; }
+.second_row .right button {
+  vertical-align: center;
+  text-align: center; }
+
+footer {
+  background-color: #3B414A;
+  color: #9EA4AD; }
+
+/*# sourceMappingURL=main.css.map */
